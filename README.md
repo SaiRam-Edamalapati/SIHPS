@@ -18,6 +18,8 @@ Government of Gujarat
 
 ## Proposed Solution / Architecture Diagram
 "Alumni Association Platform"
+![WhatsApp Image 2024-11-28 at 12 07 59_e7553ae9](https://github.com/user-attachments/assets/a7338424-71d1-4d5e-a9af-f82afcefe7fc)
+
 
 For Alumni:
  * Networking: Connect with fellow alumni, find mentors, and build professional relationships.
